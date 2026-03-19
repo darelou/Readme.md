@@ -26,4 +26,4 @@ Busco resolver problemas complejos en entornos Linux y Windows principalmente y 
 ---
 
 ## 📫 Conecta conmigo
-[![LinkedIn](linkedin.com/in/daniel-garcía-mourelo)]
+[![LinkedIn](www.linkedin.com/in/daniel-garcía-mourelo)]
